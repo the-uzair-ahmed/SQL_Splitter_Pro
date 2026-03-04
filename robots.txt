@@ -1,0 +1,7 @@
+
+User-agent: *
+Allow: /
+Allow: /sql-splitter/
+
+# Sitemaps help search engines find your content
+Sitemap: https://tools.yourcompany.com/sql-splitter/sitemap.xml

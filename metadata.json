@@ -1,0 +1,5 @@
+{
+  "name": "SQL Splitter Pro",
+  "description": "A professional, modern tool to split large SQL dumps into manageable parts while keeping table structures intact. Process .sql and .sql.gz files entirely in your browser.",
+  "requestFramePermissions": []
+}
