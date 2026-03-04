@@ -1,3 +1,6 @@
+<img width="848" height="641" alt="image" src="https://github.com/user-attachments/assets/44640a9e-3773-4ac3-943a-c196d82768eb" />
+
+
 # SQL Splitter Pro
 
 SQL Splitter Pro is a modern web-based tool designed to split large SQL
@@ -51,7 +54,7 @@ metadata.json
 
 Clone the repository:
 
-git clone https://github.com/yourusername/sql-splitter-pro.git
+git clone https://github.com/the-uzair-ahmed/sql-splitter-pro.git
 
 Navigate into the project folder:
 
@@ -162,3 +165,14 @@ You are free to use, modify, and distribute this project.
 
 Developed for developers who frequently handle large SQL dump files and
 need an easy way to split them for database imports.
+
+------------------------------------------------------------------------
+
+# ScreenShots
+
+<img width="1393" height="907" alt="image" src="https://github.com/user-attachments/assets/d48dfe07-6f05-47f5-88c9-d5bce2d29474" />
+<img width="1266" height="907" alt="image" src="https://github.com/user-attachments/assets/14db8da3-90cf-42c6-9945-e6a047e186c7" />
+<img width="1249" height="762" alt="image" src="https://github.com/user-attachments/assets/3fc57161-d45d-4ea2-ba29-0f8cca83d38b" />
+
+
+
